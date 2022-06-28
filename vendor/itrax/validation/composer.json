@@ -1,0 +1,17 @@
+{
+    "name": "itrax/validation",
+    "description": "validation library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Validation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {}
+}

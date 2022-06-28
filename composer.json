@@ -1,0 +1,19 @@
+{
+    "name": "islam/itraxmvc",
+    "autoload": {
+        "psr-4": {
+            "Islam\\Itraxmvc\\": "src/"
+        },
+        "files": ["src/lib/helper.php"]
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {
+        "itrax/db-wrapper": "^1.0",
+        "itrax/validation": "^1.0"
+    }
+}
